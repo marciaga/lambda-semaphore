@@ -1,0 +1,19 @@
+{
+  "name": "lambda-semaphore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-local-lambda --file index.js --event tests/event.json --timeout 10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^2.11.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.6.4",
+    "run-local-lambda": "^1.1.1"
+  }
+}

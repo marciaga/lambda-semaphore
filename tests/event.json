@@ -1,0 +1,12 @@
+{
+  "branch_name": "master",
+  "result": "failed",
+  "commit": {
+    "id": "ce03782d581ed985caf9c479173a14962b0fe941",
+    "url": "https://github.com/lazy_user//commit/ce03782d581ed985caf9c479173a14962b0fe941",
+    "author_name": "Mark",
+    "author_email": "markarciaga@gmail.com",
+    "message": "Add index.js",
+    "timestamp": "2015-12-07T11:31:38+01:00"
+  }
+}
